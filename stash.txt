@@ -1,1 +1,3 @@
 Test git stash.
+
+One line is added.
